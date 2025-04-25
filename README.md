@@ -1,4 +1,8 @@
-# Hey there! 👋 I'm Chayan (ChayanDass)
+# Hey there! 👋 I'm Chayan Das, a cloud native & backend developer 
+
+<p align="center">
+    <img src="./header_1.png" alt="Header Image">
+</p>
 
 ### 🚀 About Me:
 - 🏆 **Finalist** at **Medecro HealthHack 2024**, where I worked on AI-driven clinic management systems.
