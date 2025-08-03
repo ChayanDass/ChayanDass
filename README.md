@@ -59,6 +59,13 @@
 | **DEVRhylme-Foundation**   | [Pull Requests](https://github.com/DEVRhylme-Foundation/new-website/issues?q=is%3Apr+is%3Aopen+author%3AChayanDass)|
 
 ---
+## 🏆 Open Source Release Credits
+
+- **LicenseDB** – [v1.0.0](https://github.com/fossology/LicenseDb/releases/tag/1.0.0)
+- **Headlamp** – [v0.34.0](https://github.com/kubernetes-sigs/headlamp/releases/tag/v0.34.0)
+- **Headlamp** – [v0.33.0](https://github.com/kubernetes-sigs/headlamp/releases/tag/v0.33.0)
+
+---
 
 ### 📈 GitHub Stats
 
