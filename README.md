@@ -26,7 +26,7 @@
 <div align="center">
 
 **Languages & Frameworks**  
-<p> <img src="https://skillicons.dev/icons?i=go,js,ts,angular,react,nextjs,redux,nestjs,nodejs,express,html,css,kafka&perline=8" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=go,js,ts,angular,solidity,react,nextjs,redux,nestjs,nodejs,express,html,css,kafka&perline=8" /> </p>
 Databases & Storage
 
 <p> <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase,prisma,mysql&perline=7" /> </p>
@@ -81,29 +81,6 @@ CLI & Tools
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🔧 **E-commerce Platform**
-- Built with **Next.js**, **Redux**, **Express**, and **MongoDB**.
-- Features paginated products, category filtering, and secure authentication.
-
-#### 💡 **Clinic Management System (HealthHack 2024)**
-- Role-based access, intelligent diagnosis flow, and secure user onboarding.
-
-#### 🧭 **Offline Mapping & QR Tools (C4GT - Avni Project)**
-- Built offline QR/OCR scanning and mapping for rural land data collection using **React Native**, **OSM**, and **Realm DB**.
-
-#### 🔗 **Smart Contract Tooling (Exploratory)**
-- Exploring secure and gas-efficient contract patterns, token logic, and infra scripting.
-
----
-
-### ⚙️ Ongoing & Learning:
-
-- Contributing to **Microcks MCP**, **LicenseDB Improvements**, and **Kubestellar-UI**.
-- Deep diving into **multi-cluster K8s**, **Open Cluster Management**, and **smart contract backend integration**.
-
----
 
 ### 🌍 Connect with Me
 
