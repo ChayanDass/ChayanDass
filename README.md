@@ -21,31 +21,27 @@
 - ⚙️ **Blockchain Enthusiast**: Exploring decentralized storage, smart contracts, and secure backends.
 
 ---
+<h3>🛠️&nbsp;&nbsp;Tech Arsenal</h3>
 
-### 🛠️ My Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/K3s-%23007ACC.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-%23000.svg?style=for-the-badge&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3-%23F16822.svg?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+<div align="center">
+
+**Languages & Frameworks**  
+<p> <img src="https://skillicons.dev/icons?i=go,js,ts,angular,react,nextjs,redux,nestjs,nodejs,express,html,css,kafka&perline=8" /> </p>
+Databases & Storage
+
+<p> <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase,prisma,mysql&perline=7" /> </p>
+Cloud & DevOps
+
+<p> <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,kubernetes,githubactions,git,postman,figma&perline=8" /> </p>
+CLI & Tools
+
+<p> <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim&perline=8" /></p>
+
+</div>
 
 ---
+
+
 
 ### 🌟 OSS Contributions
 
