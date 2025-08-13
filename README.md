@@ -67,7 +67,6 @@ CLI & Tools
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChayanDass&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChayanDass&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChayanDass&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
@@ -85,7 +84,7 @@ CLI & Tools
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chayan8837/">
+  <a href="https://www.linkedin.com/in/chayandas0110/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:daschayan8837@gmail.com">
