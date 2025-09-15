@@ -60,7 +60,7 @@ CLI & Tools
 - **Headlamp** – [v0.34.0](https://github.com/kubernetes-sigs/headlamp/releases/tag/v0.34.0)
 - **Headlamp** – [v0.33.0](https://github.com/kubernetes-sigs/headlamp/releases/tag/v0.33.0)
 - **Microcks** – [v1.12.0](https://github.com/microcks/microcks/releases/tag/1.12.0)
--**Harbor Cli** - .[v0.0.11](https://github.com/goharbor/harbor-cli/releases/tag/v0.0.11)
+- **Harbor Cli** -[v0.0.11](https://github.com/goharbor/harbor-cli/releases/tag/v0.0.11)
 
 ---
 
