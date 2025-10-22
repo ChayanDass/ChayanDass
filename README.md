@@ -4,21 +4,13 @@
     <img src="./header_1.png" alt="Header Image">
 </p>
 
-### 🚀 About Me:
-- 🏆 **Finalist** at **Medecro HealthHack 2024**, where I built an AI-driven clinic management system.
-- 🔧 Passionate about building reliable, scalable **cloud-native** apps and backend systems.
-- 🧑‍💻 Contributing to **open-source projects** in the CNCF ecosystem — from observability to developer tools.
-- 🌱 Currently diving into **blockchain protocols** and decentralized application architecture.
-- 📦 Experienced with real-time systems, microservices, and monorepo tooling.
-- 🧠 Always learning — whether it’s infrastructure, DevOps, or distributed systems.
+# 🚀 Enthusiastic About Complexity & Innovation
 
----
-
-### 🏅 Trophies & Achievements:
-- 🏆 **HealthHack Finalist**: Recognized for innovation in AI-powered clinical systems.
-- 🛠️ **C4GT & LFX Contributor**: Enhancing platforms like **Fossology**, **Microcks**, and **HCW-Home**.
-- 🌍 **Open Source Contributions**: Actively working on cloud-native infrastructure tooling.
-- ⚙️ **Blockchain Enthusiast**: Exploring decentralized storage, smart contracts, and secure backends.
+- 🔧 Building **reliable, scalable cloud-native apps** and backend systems.  
+- 🧑‍💻 Contributing to **open-source CNCF projects** — from observability to developer tooling.  
+- 🌱 Started exploring **blockchain protocols** and decentralized application architecture.  
+- 📦 Experienced in **real-time systems, microservices, and monorepo setups**.  
+- 🧠 Always learning — infrastructure, DevOps, and distributed systems.  
 
 ---
 <h3>🛠️&nbsp;&nbsp;Tech Arsenal</h3>
