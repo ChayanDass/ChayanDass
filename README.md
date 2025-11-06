@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=ChayanDass&label=Profile%20views&color=0e75b6&style=flat" alt="Chayan Das"/>
+
 # Hey there! 👋 I'm Chayan Das, a cloud native & backend developer
 
 <p align="center">
